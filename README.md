@@ -1,0 +1,2 @@
+# kogBlock
+simple scala blockchain
